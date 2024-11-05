@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../CSET110"
+		},
+		{
+			"path": "../google.images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSET110"
+	}
+}

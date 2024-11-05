@@ -1,0 +1,21 @@
+#p1{ border-style: solid ;
+    }
+
+ #p2{
+    border: solid;
+    border-color: transparent;
+    border-bottom-color: red;
+        }
+
+ #p3{
+            border: 2px solid black;
+            border-radius: 12px;
+            padding: 5px;
+         }
+
+#p4 {
+    border: solid transparent 5px;
+    border-left-color: blue;
+background-color: aqua;
+}
+        

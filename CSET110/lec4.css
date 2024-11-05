@@ -1,0 +1,87 @@
+/* .flexbox-container{
+display: flex;
+flex-wrap: wrap; 
+flex-direction: row;
+justify-content: space-around;
+align-items: flex-start;
+background-color: rgb(246, 134, 157);
+}
+
+.flexbox-item{
+width: 200px;
+margin: 10px;
+border: 3px solid rgb(0, 0, 0);
+background-color: rgb(234, 229, 209);
+}
+
+.flexbox-item-1{
+   min-height: 100px;
+   flex-shrink: 0;
+}
+
+.flexbox-item-2{
+    min-height: 200px;
+    flex-grow: 0;
+    flex-basis: ;
+    align-self: center;
+ }
+
+ .flexbox-item-3{
+    min-height: 300px;
+    flex-grow: ;
+    flex-basis: ;
+ } */
+
+
+ table, th, td{
+   border: 1px solid black;
+   border-collapse: collapse;
+ }
+
+ table {
+ width: 100%; ;
+ }
+
+ td:hover{
+background-color: rgb(244, 120, 180);
+ }
+
+ a:link{
+   color: rgb(255, 0, 0);
+ }
+
+ a:visited{
+   color: rgb(10, 147, 69);
+ }
+
+ a:hover{
+   color:rgb(186, 0, 186) ;
+ }
+
+ a:active{
+color: blue;
+
+ }
+
+ /* p{
+   display: none;
+ }
+
+ h3:hover p {
+display: block;
+ }
+ 
+ p:hover{
+   color: blueviolet;
+ }
+
+ div:hover p{
+   display: block;
+   background-color: aqua;
+ } */
+  p{background-image: url();
+   background-repeat: n;
+   align-content: top right;
+   text-shadow: 0px 0px 3px red, 0 0 3px rgb(53, 0, 128);
+   /* background-image: linear-gradient(to right bottom , red, yellow, blue, green); */
+  }

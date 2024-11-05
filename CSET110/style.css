@@ -1,0 +1,18 @@
+/* .article {font-size: 20px; background-color: rgb(255, 179, 230); text-align: center;}
+    #p3{color:rgb(255, 0, 187);} */
+
+   div { background-image:url(https://wallpapercave.com/wp/wp6777203.jpg) ;
+border-width: 2px 20px 10px 5px;
+border-color: palevioletred;
+border-style: groove ;
+background-size: contain;
+background-repeat: repeat-x;
+height: 200px;
+width: 50%;
+}
+p{
+    border: ;
+}
+
+ 
+  

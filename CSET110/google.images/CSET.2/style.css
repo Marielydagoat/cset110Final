@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+
+height: 100px;
+background-color: #b2d6ff;
+
+}
+
+.sidebar{
+    float: left;
+    width: 200px;
+    height: 300px;
+    background-color: #f09a9d;
+}
+
+.content{
+    float: left;
+    width: 650px;
+    height: 500px;
+    background-color: #f5cf8e;
+}
+
+.footer{
+    overflow: hidden;
+    clear: both;
+    
+    background-color: #d6e9fe;
+}
+
+.page{
+    
+    margin: 0 auto; 
+    width: 900px ;
+    overflow: hidden;
+    background-color: #eaedf0;
+}
+
+.back {
+    background-color:#eaedf0 ;
+}
+
+.column{
+    float: left;
+    width: 31%;
+    height: 160px;
+    margin: 20px 1.15%;
+    background-color: #b2d6ff;
+}
+
+.username{
+    margin-top: 30px;
+
+}
+
+.comment{
+    margin: 10px;
+    overflow: hidden;
+}
+
+.avatar{
+float: left;
+width: 60px;
+height: 60px;
+margin: 25px;
+border-radius: 40px;
+background-color: #d6d9fe;
+}
+
+
+.comment2{
+    margin: 10px;
+}
+
+.pic{
+    margin: 20px;
+    background-color: rgba(158, 123, 28, 0.471);
+    border: solid black 3px;
+    border-radius: 10px;
+    float: left;
+width: 300px;
+height: 200px;
+}
+
+.pic3{
+    margin: 20px;
+    background-color: rgba(158, 123, 28, 0.471);
+    border: solid black 3px;
+    border-radius: 10px;
+    float: left;
+width: 300px;
+height: 200px;
+}
+
+.pic2{
+    margin: 20px;
+    background-color: rgba(158, 123, 28, 0.471);
+    border: solid black 3px;
+    border-radius: 10px;
+    float: left;
+width: 300px;
+height: 200px;
+}
+
